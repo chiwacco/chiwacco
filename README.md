@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>About Me</h1>
-  <p>Master degree of University in Japan / Computer Science Student</p>
+  <p>Master degree / Computer Science Student</p>
   <p>Interest: NLP, LLM, Algorithm, Data Anaysis</p>
   
 </div>
